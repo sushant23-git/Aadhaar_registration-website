@@ -1,4 +1,4 @@
 # Aadhaar_registration-website
 This website provides a seamless and user-friendly platform for Aadhaar registration. It allows users to easily apply for a new Aadhaar card, update their details, and check the status of their application.
-VIDEO :-
-https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Aadhar_demo.mp4%22%2C%22type%22%3A%22video%2Fmp4%22%2C%22signedurl_expire%22%3A%222028-02-08T17%3A15%3A16.933Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fd843031064374d96%2FAadhar_demo.mp4%3FExpires%3D1833642917%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DxBTRNLLn8GLUg-7fx4ZxJgdevg7gsG2PuYnjrS3tEzCEhkm6wwUN~3ZXeOquQSd-hojdYrgWAmUPTTSb9LsAyF3b-0Jhxo6txwls5R0bkhCYpUSYVOq1AFMkAc0l9qzqzZXo2CJe1eS5thBXbOP5eoEgmHZCiEivvopGPX2igj1ugT-YIIxQdGLUL-yvYtzmmLnm7c5r3q9xnImF7D5uMU2hYihRWg1O5f3n3lnG0ZKEuqPX8JP~70pI1jGHM0IyRriRpg6kf7YOTgRFRwlnMBMsj3dIWUYMTUYOXzSHju1jfWDOFwNs9Ps89O3xW7BjgqaW9TGwtDDASNBNDJgUMQ__%22%7D
+
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/logo.png)](https://raw.githubusercontent.com/username/repository/branch/path/to/Aadhar_demo.mp4)
