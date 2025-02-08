@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aadhaar Registration Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            background: white;
+            padding: 30px;
+            margin: 100px auto;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #666;
+        }
+        .apply-btn {
+            display: inline-block;
+            padding: 12px 25px;
+            font-size: 18px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: 0.3s;
+            border: none;
+            cursor: pointer;
+        }
+        .apply-btn:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div style="text-align: center; margin-top: 20px;">
+        <img src="logo.png" alt="Website Logo" style="width: 150px; height: auto;">
+    </div>
+    
+
+<div class="container">
+    <h1>Welcome to Aadhaar Registration</h1>
+    <p>Click the button below to apply for your Aadhaar Card.</p>
+    <button class="apply-btn" onclick="openRegistration()">APPLY</button>
+</div>
+
+<script>
+    function openRegistration() {
+        window.open('registration.html', '_blank');
+    }
+</script>
+
+</body>
+</html>
